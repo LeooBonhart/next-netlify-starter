@@ -11,10 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Яцун Мартин Олегович" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+          сн-33
       </main>
 
       <Footer />
