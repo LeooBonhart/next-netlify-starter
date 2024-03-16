@@ -12,8 +12,6 @@ export default function Home() {
 
       <main>
         <Header title="Яцун Мартин Олегович" />
-        <p className="description">
-          сн-33
       </main>
 
       <Footer />
